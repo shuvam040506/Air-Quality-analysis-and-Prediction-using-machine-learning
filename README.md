@@ -128,6 +128,4 @@ MIT License — use it freely and responsibly.
 
 ## ⭐ Final Words
 
-> "This isn’t just a data project. It’s a breath of fresh air — literally."
-
-Made with ❤️ by [Your Name]
+Enjoy the project
