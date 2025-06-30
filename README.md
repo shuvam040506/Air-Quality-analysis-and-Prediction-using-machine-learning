@@ -34,6 +34,7 @@ A powerful machine learning web app that **predicts PM2.5 pollution levels** usi
 | Postman | API testing |
 | Jupyter | Prototyping & EDA |
 | Matplotlib / Seaborn | Visualization |
+| HTML | Frontend |
 
 ---
 
